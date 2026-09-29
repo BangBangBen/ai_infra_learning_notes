@@ -1,0 +1,8 @@
+# Obsidian related files
+# .obsidian/workspace.json
+# .obsidian/workspace-mobile.json
+# .obsidian/cache/
+.obsidian/
+
+# claudian related files
+.claudian/
